@@ -24,7 +24,7 @@ html {
 .land {
   min-height: 100vh;
   background-size: cover;
-  background-image: url(/imges/fanos.png);
+  background-image: url(./imges/fanos.png);
   position: relative;
   z-index: 1;
 }
@@ -36,7 +36,7 @@ html {
   margin-bottom: 40px;
 }
 .lands {
-  background-image: url(/imges/fanos-ar.png);
+  background-image: url(./imges/fanos-ar.png);
 }
 
 .lands h1 {
@@ -89,7 +89,7 @@ html {
   justify-content: center;
   align-items: center;
   font-size: 28px;
-  background-image: url(/imges/islamic-decor.avif);
+  background-image: url(./imges/islamic-decor.avif);
 }
 
 .my_website h2 {
