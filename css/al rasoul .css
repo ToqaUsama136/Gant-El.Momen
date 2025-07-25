@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: rgb(190, 142, 58);
+  font-size: large;
+}
+.navbar a:hover {
+  color: black;
+}
+.navbar a {
+  color: rgb(209, 205, 197);
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.land img {
+  min-height: 95vh;
+  width: 100.2%;
+  margin-left: -5px;
+  position: relative;
+  z-index: 1;
+
+  background-size: cover;
+}
+.lands img {
+  min-height: 95vh;
+  width: 100%;
+  margin-left: -5px;
+  position: relative;
+  z-index: 1;
+
+  background-size: cover;
+}
+.land h1 {
+  margin-bottom: 50px;
+}
+.text {
+  padding-top: 170px;
+  margin-left: 30px;
+  font-size: 24px;
+  color: rgb(100, 64, 14);
+  margin-bottom: 70px;
+}
+.imagess {
+  margin-top: -390px;
+  margin-left: -25px;
+}
+.border-img {
+  margin-top: -378px;
+  margin-right: -25px;
+  margin-right: 25px;
+}
+
+.boxes1 {
+  margin-top: -300px;
+  margin-bottom: 50px;
+  margin-left: -70px;
+}
+.boxes12 {
+  margin-bottom: 100px;
+  margin-top: -300px;
+  margin-right: -30px;
+  position: relative;
+  z-index: -1;
+}
+.box1 {
+  margin-top: -450px;
+}
+.box1 .text h1 {
+  position: relative;
+  top: -185px;
+  left: 40px;
+}
+.box12 .text h1 {
+  position: relative;
+  top: -690px;
+  margin-right: 55px;
+}
+.box1 .text p {
+  margin-top: -60px;
+  margin-bottom: 100px;
+}
+.box12 .text p {
+  margin-top: -560px;
+  margin-bottom: -100px;
+  margin-right: 80px;
+}
+footer {
+  background-color: rgb(190, 142, 58);
+}
+footer a {
+  color: rgb(209, 205, 197);
+  text-decoration: none;
+}
+footer a i {
+  color: rgb(209, 205, 197);
+}
+footer a i:hover {
+  color: black;
+}
+.name:hover {
+  color: black;
+}

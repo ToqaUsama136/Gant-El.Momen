@@ -1,0 +1,84 @@
+body {
+  background-color: rgb(234, 228, 217);
+}
+.navbar {
+  background-color: rgb(190, 142, 58);
+}
+.navbar a {
+  color: rgb(209, 205, 197);
+  font-size: large;
+}
+.navbar a:hover {
+  color: black;
+}
+.land {
+  min-height: 95vh;
+  margin-top: -90px;
+  background-size: cover;
+  background-image: url(/imges/3.png);
+}
+
+.card {
+  margin: 40px;
+  border: none;
+}
+.card img {
+  width: 376px;
+  height: 250px;
+}
+.row {
+  margin-bottom: 90px;
+  margin-top: 90px;
+  margin-right: 80px;
+  margin-left: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.card-header {
+  background-color: rgba(104, 75, 9, 0.902);
+  color: rgb(209, 205, 197);
+  font-weight: bold;
+}
+.card-header h4 {
+  text-align: center;
+}
+.card-text {
+  font-size: 18px;
+}
+.line {
+  background-color: rgba(190, 142, 58);
+}
+
+.nav-tabs .nav-link {
+  color: rgb(209, 205, 197);
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-text {
+  margin-bottom: 20px;
+}
+
+.card-row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+footer {
+  background-color: rgb(190, 142, 58);
+}
+footer a {
+  color: antiquewhite;
+  text-decoration: none;
+}
+footer a i {
+  color: rgb(209, 205, 197);
+}
+footer a i:hover {
+  color: black;
+}
+
+.name:hover {
+  color: black;
+}

@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+.navbar {
+  background-color: rgb(190, 142, 58);
+  font-size: large;
+}
+.navbar a {
+  color: rgb(209, 205, 197);
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.navbar a:hover {
+  color: black;
+}
+
+.navbar-toggler-icon {
+  background-color: rgb(90, 61, 8);
+}
+.land {
+  min-height: 100vh;
+  background-size: cover;
+  background-image: url(/imges/fanos.png);
+  position: relative;
+  z-index: 1;
+}
+.land h1 {
+  font-size: 60px;
+}
+.land .texts {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+.lands {
+  background-image: url(/imges/fanos-ar.png);
+}
+
+.lands h1 {
+  font-size: 60px;
+}
+
+.lands .texts {
+  font-size: 35px;
+  margin-bottom: 40px;
+}
+.land h1 {
+  margin-bottom: 50px;
+}
+
+.imagess {
+  margin-bottom: -120px;
+  margin-top: -390px;
+  margin-left: -25px;
+}
+.border-img {
+  margin-bottom: -120px;
+  margin-right: 24px;
+  margin-top: -378px;
+}
+.iimagess {
+  margin-bottom: -120px;
+  margin-top: -390px;
+  margin-left: -25px;
+  margin-bottom: 30px;
+  position: relative;
+  z-index: -1;
+}
+.border-imgess {
+  margin-top: -378px;
+  margin-right: 25px;
+  margin-bottom: 30px;
+  position: relative;
+  z-index: -1;
+}
+@media (max-width: 992px) {
+  .border-imgess {
+    display: none;
+  }
+}
+.my_website {
+  min-height: 60vh;
+  padding: 70px;
+  padding-left: 200px;
+  padding-right: 200px;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  background-image: url(/imges/islamic-decor.avif);
+}
+
+.my_website h2 {
+  color: rgba(58, 43, 4, 0.906);
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.my_website p {
+  color: rgba(58, 43, 4, 0.906);
+}
+.card .card-body {
+  padding: 50px;
+}
+
+@media (max-width: 992px) {
+  .my_website {
+    padding-top: 215px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .my_website .container {
+    padding-top: 190px;
+  }
+}
+
+.splide .card {
+  width: 250px;
+  border-top-left-radius: 80px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 992px) {
+  .card-body {
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .row .cards-img {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+.splide .card-img {
+  width: 250px;
+  height: 150px;
+  border-top-left-radius: 80px;
+}
+
+.text {
+  padding-top: 170px;
+  margin-left: 30px;
+  font-size: 24px;
+  color: rgb(100, 64, 14);
+}
+
+.address {
+  border: none;
+  text-align: center;
+}
+.cards .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  font-size: large;
+}
+
+@media (max-width: 992px) {
+  #cards {
+    padding: 0;
+  }
+
+  .cards .container {
+    padding: 0;
+  }
+}
+
+.cardss {
+  padding-right: 100px;
+}
+.cardss-img {
+  border-bottom-right-radius: 80px;
+  margin-bottom: 50px;
+}
+.cards-img {
+  border-bottom-left-radius: 80px;
+  margin-bottom: 50px;
+}
+.btn {
+  background-color: rgb(190, 142, 58);
+  border: none;
+}
+.btn-primary:hover {
+  background-color: black;
+}
+
+footer {
+  background-color: rgb(190, 142, 58);
+}
+footer a {
+  color: rgb(209, 205, 197);
+  text-decoration: none;
+}
+footer a i {
+  color: rgb(209, 205, 197);
+}
+footer a i:hover {
+  color: black;
+}
+.name:hover {
+  color: black;
+}
