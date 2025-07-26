@@ -1,5 +1,5 @@
 body {
-  background-image: url(./imges/bg-5.png);
+  background-image: url(../imges/bg-5.png);
 }
 
 .navbar {
@@ -19,7 +19,7 @@ body {
   min-height: 95vh;
 
   background-size: cover;
-  background-image: url(./imges/alsahaba.png);
+  background-image: url(../imges/alsahaba.png);
   position: relative;
   z-index: 1;
 }

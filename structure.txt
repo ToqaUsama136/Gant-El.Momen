@@ -1,0 +1,270 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is 88EC-2897
+E:.
+³   al rasoul .html
+³   al rasoul_ar .html
+³   al sahaba.html
+³   al sahaba_ar .html
+³   al sahabiat.html
+³   al sahabiat_ar.html
+³   index-ar.html
+³   index.html
+³   structure.txt
+³   
+ÃÄÄÄbootstrap-5.2.3-dist
+³   ÃÄÄÄbootstrap-5.2.3-dist
+³   ³   ÃÄÄÄcss
+³   ³   ³       bootstrap-grid.css
+³   ³   ³       bootstrap-grid.css.map
+³   ³   ³       bootstrap-grid.min.css
+³   ³   ³       bootstrap-grid.min.css.map
+³   ³   ³       bootstrap-grid.rtl.css
+³   ³   ³       bootstrap-grid.rtl.css.map
+³   ³   ³       bootstrap-grid.rtl.min.css
+³   ³   ³       bootstrap-grid.rtl.min.css.map
+³   ³   ³       bootstrap-reboot.css
+³   ³   ³       bootstrap-reboot.css.map
+³   ³   ³       bootstrap-reboot.min.css
+³   ³   ³       bootstrap-reboot.min.css.map
+³   ³   ³       bootstrap-reboot.rtl.css
+³   ³   ³       bootstrap-reboot.rtl.css.map
+³   ³   ³       bootstrap-reboot.rtl.min.css
+³   ³   ³       bootstrap-reboot.rtl.min.css.map
+³   ³   ³       bootstrap-utilities.css
+³   ³   ³       bootstrap-utilities.css.map
+³   ³   ³       bootstrap-utilities.min.css
+³   ³   ³       bootstrap-utilities.min.css.map
+³   ³   ³       bootstrap-utilities.rtl.css
+³   ³   ³       bootstrap-utilities.rtl.css.map
+³   ³   ³       bootstrap-utilities.rtl.min.css
+³   ³   ³       bootstrap-utilities.rtl.min.css.map
+³   ³   ³       bootstrap.css
+³   ³   ³       bootstrap.css.map
+³   ³   ³       bootstrap.min.css
+³   ³   ³       bootstrap.min.css.map
+³   ³   ³       bootstrap.rtl.css
+³   ³   ³       bootstrap.rtl.css.map
+³   ³   ³       bootstrap.rtl.min.css
+³   ³   ³       bootstrap.rtl.min.css.map
+³   ³   ³       
+³   ³   ÀÄÄÄjs
+³   ³           bootstrap.bundle.js
+³   ³           bootstrap.bundle.js.map
+³   ³           bootstrap.bundle.min.js
+³   ³           bootstrap.bundle.min.js.map
+³   ³           bootstrap.esm.js
+³   ³           bootstrap.esm.js.map
+³   ³           bootstrap.esm.min.js
+³   ³           bootstrap.esm.min.js.map
+³   ³           bootstrap.js
+³   ³           bootstrap.js.map
+³   ³           bootstrap.min.js
+³   ³           bootstrap.min.js.map
+³   ³           
+³   ÃÄÄÄcss
+³   ³       bootstrap-grid.css
+³   ³       bootstrap-grid.css.map
+³   ³       bootstrap-grid.min.css
+³   ³       bootstrap-grid.min.css.map
+³   ³       bootstrap-grid.rtl.css
+³   ³       bootstrap-grid.rtl.css.map
+³   ³       bootstrap-grid.rtl.min.css
+³   ³       bootstrap-grid.rtl.min.css.map
+³   ³       bootstrap-reboot.css
+³   ³       bootstrap-reboot.css.map
+³   ³       bootstrap-reboot.min.css
+³   ³       bootstrap-reboot.min.css.map
+³   ³       bootstrap-reboot.rtl.css
+³   ³       bootstrap-reboot.rtl.css.map
+³   ³       bootstrap-reboot.rtl.min.css
+³   ³       bootstrap-reboot.rtl.min.css.map
+³   ³       bootstrap-utilities.css
+³   ³       bootstrap-utilities.css.map
+³   ³       bootstrap-utilities.min.css
+³   ³       bootstrap-utilities.min.css.map
+³   ³       bootstrap-utilities.rtl.css
+³   ³       bootstrap-utilities.rtl.css.map
+³   ³       bootstrap-utilities.rtl.min.css
+³   ³       bootstrap-utilities.rtl.min.css.map
+³   ³       bootstrap.css
+³   ³       bootstrap.css.map
+³   ³       bootstrap.min.css
+³   ³       bootstrap.min.css.map
+³   ³       bootstrap.rtl.css
+³   ³       bootstrap.rtl.css.map
+³   ³       bootstrap.rtl.min.css
+³   ³       bootstrap.rtl.min.css.map
+³   ³       
+³   ÀÄÄÄjs
+³           bootstrap.bundle.js
+³           bootstrap.bundle.js.map
+³           bootstrap.bundle.min.js
+³           bootstrap.bundle.min.js.map
+³           bootstrap.esm.js
+³           bootstrap.esm.js.map
+³           bootstrap.esm.min.js
+³           bootstrap.esm.min.js.map
+³           bootstrap.js
+³           bootstrap.js.map
+³           bootstrap.min.js
+³           bootstrap.min.js.map
+³           
+ÃÄÄÄcss
+³       al rasoul .css
+³       al sahaba.css
+³       al sahabiat.css
+³       bootstrap.css
+³       style.css
+³       
+ÃÄÄÄimges
+³       0011001.jpg
+³       111111.avif
+³       2.png
+³       21451245.png
+³       22222.png
+³       240_F_578561800_UYEYZ4MNDK03l0vaIUMQB1yaNxyzSxYG.jpg
+³       3.png
+³       420px-??_?????_???_????.png
+³       420px-????_???_????_????? (1).png
+³       420px-????_???_????_?????.png
+³       480px-Juwayriyya_bint_al-Harith.png
+³       480px-Maymunah_bint_al_Harith.png
+³       480px-Safiyya_bint_Huyayy.png
+³       480px-Zaynab_bint_Khuzayma.png
+³       88888-removebg ar.png
+³       88888-removebg.png
+³       9999.jpg
+³       abd alrahman.jpg
+³       abo obida.jpg
+³       Aisha_bint_Abi_Bakr.png
+³       al asha.jpg
+³       Al Asr.jpg
+³       al maghrib.jpg
+³       al zobier.jpg
+³       ali.jpg
+³       alsahaba.png
+³       arabic-ornamental-background-paper-style_23-2148874748.avif
+³       bg-5.png
+³       border 3.png
+³       decor.avif
+³       decorative-ornaments-collection_1236-114.avif
+³       download (1).jpg
+³       download (10).jpg
+³       download (11).jpg
+³       download (12).jpg
+³       download (13).jpg
+³       download (14).jpg
+³       download (15).jpg
+³       download (16).jpg
+³       download (2).jpg
+³       download (3).jpg
+³       download (4).jpg
+³       download (5).jpg
+³       download (6).jpg
+³       download (7).jpg
+³       download (8).jpg
+³       download (9).jpg
+³       download.png
+³       eid-mubarak-lotus-background-vector_53876-85215 (1).avif
+³       eid-mubarak-lotus-background-vector_53876-85215.avif
+³       fager.jpg
+³       fanos-ar.png
+³       fanos.png
+³       Fatimah_Calligraphy.png
+³       flat-arabic-pattern-background_79603-1826.avif
+³       flat-design-creative-arabesque-pattern_23-2149189856.avif
+³       flat-design-creative-arabesque-pattern_23-2149189857.avif
+³       free-photo-ramadan-kareem-eid-mubarak-mosque-evening-with-sun-light-background_1340-23500.avif
+³       free-photo-ramadan-kareem-eid-mubarak-royal-elegant-lamp-with-mosque-holy-gate-with-fireworks_1340-24281.avif
+³       gana-el-momen-low-resolution-logo-color-on-transparent-background.png
+³       geometric-muslim-religion-malaysia-detail_1122-1623.avif
+³       golden-eid-mubarak-frame-design_53876-99833.avif
+³       images (1).jpg
+³       images (10).jpg
+³       images (11).jpg
+³       images (15).jpg
+³       images (16).jpg
+³       images (2).jpg
+³       images (3).jpg
+³       images (4).jpg
+³       images (5).jpg
+³       images (6).jpg
+³       images (7).jpg
+³       images (8).jpg
+³       images (9).jpg
+³       images.jpg
+³       imagess.jpg
+³       islamic-decor.avif
+³       islamic-new-year-concept-with-copy-space_23-2148611773 (1).avif
+³       islamic-new-year-concept-with-copy-space_23-2148611773.avif
+³       islamic-new-year-concept-with-copy-space_23-2148611776.avif
+³       islamic-new-year-pattern-background_23-2148950279.avif
+³       islamic-ornament-3d-arabic-pattern-background-editable-color_271628-888 (1).avif
+³       islamic-ornament-3d-arabic-pattern-background-editable-color_271628-888 (2).avif
+³       islamic-ornament-3d-arabic-pattern-background-editable-color_271628-888.avif
+³       Khadijah.png
+³       khdega.jpg
+³       logo-no-background.png
+³       mandala-illustration_53876-81805 (1).avif
+³       mandala-illustration_53876-81805.avif
+³       Maria_Al_Qibtiyya.png
+³       mobasheron-01.png
+³       mobasheron.ai
+³       moha.png
+³       mohamed.png
+³       mos.jpg
+³       moso.jpg
+³       omar 1.jpg
+³       omar2.jpg
+³       oriental-mandala-background-with-empty-space_52683-64824.avif
+³       othman 2.jpg
+³       pastel-dividers-design-collection_53876-63023.avif
+³       pastel-pink-indian-paisley-pattern-background_53876-120532.avif
+³       pattern-geometric-line-circle-abstract-seamless-blue-line_60284-53.avif
+³       prophet-muhammad-peace-be-upon-him-arabic-calligraphy-with-geometric-islamic-mawlid-greeting_36073-1058.avif
+³       realistic-ramadan-background_52683-82449.avif
+³       saad.jpg
+³       saad2.jpg
+³       saeed.jpg
+³       saeed2.jpg
+³       seamless-3d-ramadan-islamic-pattern-arabian-style-vector-illustration_74869-1193.avif
+³       seamless-pattern-authentic-arabian-style_151170-1216.avif
+³       set-3-arabic-islamic-text-box-title-frame-border-infographics_158840-426.avif
+³       sha.jpg
+³       shaa.jpg
+³       shaba.jpg
+³       shabiat.jpg
+³       sheikh-zayed-mosque-abu-dhabi_78361-14131.avif
+³       shhhh.jpg
+³       silver-background-luxury-modern-design_343694-2540.avif
+³       sky.avif
+³       stylish-line-pattern-background_361591-1174.avif
+³       talha.jpg
+³       travelling-iran_8327-274.avif
+³       Umm_Habiba.png
+³       Untitled-1-01-removebg-preview.png
+³       view-famous-abu-dhabi-sheikh-zayed-mosque-by-night-uae_268835-1065.avif
+³       violet-mandala-design_53876-81766.avif
+³       ?????_???_??_????.png
+³       ?????_???_????_???_????.png
+³       ?????_????_????_???_???.png
+³       ?????_????_????_???_???.png
+³       ???.jpg
+³       ???_???_???_??????.jpg
+³       ??_??_???_???_??_??????.jpg
+³       
+ÃÄÄÄjs
+³       all.min.js
+³       bootstrap.js
+³       jquery.js
+³       
+ÀÄÄÄwebfonts
+        fa-brands-400.ttf
+        fa-brands-400.woff2
+        fa-regular-400.ttf
+        fa-regular-400.woff2
+        fa-solid-900.ttf
+        fa-solid-900.woff2
+        fa-v4compatibility.ttf
+        fa-v4compatibility.woff2
+        
